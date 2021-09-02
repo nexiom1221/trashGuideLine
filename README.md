@@ -49,3 +49,4 @@
   
  ![issue badge](https://img.shields.io/github/issues/nexiom1221/trashGuideLine)
  ![licence badge](https://img.shields.io/github/license/nexiom1221/trashGuideLine)
+ ![appveyor badge](https://img.shields.io/appveyor/build/nexiom1221/trashGuideLine)
