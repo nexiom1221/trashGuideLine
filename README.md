@@ -34,7 +34,7 @@
 <h2>이용 방법</h2>
 <h3>기본적으로 안드로이드 환경에서 동작합니다</h3>
 <ol start="1">
-    <li>다운후 TrashGuideLine.apk 파일을 핸드폰에 다운로드(TrashGuideLine.zip을 핸드폰으로 보내 압축 풀어서 apk 다운)</li>
+    <li>app/release/ 에 있는 TrashGuideLine.apk 파일을 핸드폰에 다운로드(TrashGuideLine.zip을 핸드폰으로 보내 압축 풀어서 apk 다운)</li>
     <li>회원가입 or 구글로그인 로그인 후 접속</li>
     <li>위치(GPS)가 켜져있지 않았을 경우 키고 재접속</li>
     <li>반경 1km 안에 있는 핑을 누를시 해당 핑 게시판으로 이동</li>
