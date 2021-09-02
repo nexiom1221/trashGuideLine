@@ -13,7 +13,8 @@
 </ul>
 <br>
 <span>
-![21312312](https://user-images.githubusercontent.com/49227888/131793968-4d34bc49-f91c-4b31-bfbb-e7a19f2b3b3d.png)
+
+  ![21312312](https://user-images.githubusercontent.com/49227888/131796201-7ed8167e-5a49-4de4-bcca-aeedb7164431.png)
 
   <h5>PROJECT AWARE 화면 (예시화면)</h5>
 </span>
